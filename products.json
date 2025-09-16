@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556666",
+    "title": "Yerba Mate Taragüi 1kg",
+    "description": "Yerba mate con palo, paquete de 1kg",
+    "code": "YERB001",
+    "price": 3200,
+    "status": true,
+    "stock": 50,
+    "category": "bebidas calientes",
+    "thumbnails": []
+  },
+  {
+    "id": "2b3c4d5e-7777-8888-9999-aaaabbbbcccc",
+    "title": "Aceite Girasol Natura 1.5L",
+    "description": "Botella de aceite comestible de girasol",
+    "code": "ACEI002",
+    "price": 2500,
+    "status": true,
+    "stock": 30,
+    "category": "almacén",
+    "thumbnails": []
+  },
+  {
+    "id": "3c4d5e6f-dddd-eeee-ffff-000011112222",
+    "title": "Fideos Spaghetti Matarazzo 500g",
+    "description": "Paquete de fideos largos",
+    "code": "FIDE003",
+    "price": 1200,
+    "status": true,
+    "stock": 80,
+    "category": "pastas",
+    "thumbnails": []
+  },
+  {
+    "id": "4d5e6f70-3333-4444-5555-666677778888",
+    "title": "Cerveza Quilmes Cristal 1L",
+    "description": "Botella retornable de cerveza Quilmes",
+    "code": "CERV004",
+    "price": 1500,
+    "status": true,
+    "stock": 100,
+    "category": "bebidas alcohólicas",
+    "thumbnails": []
+  },
+  {
+    "id": "5e6f7081-aaaa-bbbb-cccc-ddddeeeeffff",
+    "title": "Lavandina Ayudín 2L",
+    "description": "Botella de lavandina concentrada",
+    "code": "LAVA005",
+    "price": 1000,
+    "status": true,
+    "stock": 40,
+    "category": "limpieza",
+    "thumbnails": []
+  },
+  {
+    "id": "1e82707f-2998-4346-b3f8-6fe731aca600",
+    "title": "Galletas Diversion",
+    "description": "galletas diversion surtidas x500g",
+    "code": "DIVER001",
+    "price": 2000,
+    "status": true,
+    "stock": 1000,
+    "category": "almacen",
+    "thumbnails": []
+  }
+]

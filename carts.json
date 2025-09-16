@@ -1,0 +1,23 @@
+[
+  {
+    "id": "999aaa11-bbbb-2222-cccc-3333dddd4444",
+    "products": []
+  },
+  {
+    "id": "1111aaaa-2222bbbb-3333cccc-4444dddd",
+    "products": [
+      {
+        "product": "1a2b3c4d-1111-2222-3333-444455556666",
+        "quantity": 2
+      },
+      {
+        "product": "3c4d5e6f-dddd-eeee-ffff-000011112222",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "id": "9ba56e0d-fcfa-41fc-86b3-7c497f0eb0f9",
+    "products": []
+  }
+]
