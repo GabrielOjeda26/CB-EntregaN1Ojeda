@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Productos en tiempo real</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+  <h1>Productos en tiempo real</h1>
+
+  <table id="productTable">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Precio</th>
+        <th>Eliminar</th>
+      </tr>
+    </thead>
+    <tbody id="productList">
+      {{#each products}}
+        <tr>
+          <td>{{this.title}}</td>
+          <td>${{this.price}}</td>
+          <td><button class="btn-delete" data-id="{{this.id}}"><i class="fas fa-trash"></i></button></td>
+        </tr>
+      {{/each}}
+    </tbody>
+  </table>
+  <div class="container">
+    <button id="btn-add" class="btn-add">Agregar Producto</i></button>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/js/realtime.js"></script>
+</body>
+</html>

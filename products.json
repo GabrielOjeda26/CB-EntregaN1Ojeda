@@ -1,27 +1,5 @@
 [
   {
-    "id": "1a2b3c4d-1111-2222-3333-444455556666",
-    "title": "Yerba Mate Taragüi 1kg",
-    "description": "Yerba mate con palo, paquete de 1kg",
-    "code": "YERB001",
-    "price": 3200,
-    "status": true,
-    "stock": 50,
-    "category": "bebidas calientes",
-    "thumbnails": []
-  },
-  {
-    "id": "2b3c4d5e-7777-8888-9999-aaaabbbbcccc",
-    "title": "Aceite Girasol Natura 1.5L",
-    "description": "Botella de aceite comestible de girasol",
-    "code": "ACEI002",
-    "price": 2500,
-    "status": true,
-    "stock": 30,
-    "category": "almacén",
-    "thumbnails": []
-  },
-  {
     "id": "3c4d5e6f-dddd-eeee-ffff-000011112222",
     "title": "Fideos Spaghetti Matarazzo 500g",
     "description": "Paquete de fideos largos",
@@ -64,5 +42,10 @@
     "stock": 1000,
     "category": "almacen",
     "thumbnails": []
+  },
+  {
+    "id": "1e82707f-2998-4346-b3f8-6fe731aca6001",
+    "title": "Coca cola 2,5L",
+    "price": 4000
   }
 ]
